@@ -32,3 +32,4 @@ The communication is based on a client-server architecture, using Threads and Sc
 
 <h3>Check if a class is a Bean</h3>
 <img src="ReadMeContent/Ama4.png" alt="" width=50% />
+ 
