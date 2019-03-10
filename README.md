@@ -3,7 +3,7 @@ A multi-client platform for services exchange between programmers and amateurs.<
 The programmers post new services on a FTP Server and then can run the software to load the class dynamically while the server still running.<br>
 This software use massively the Java reflection to load the services from the FTP Server.<br>
 The communication is based on a client-server architecture, using Threads and Scanners.
-
+ 
 <h2>The programmer view</h2>
 <img src="ReadMeContent/programmerView.png" alt="" width=50% />
 
